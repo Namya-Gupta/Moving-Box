@@ -1,0 +1,40 @@
+.heading
+{
+    font-size: 23px;
+    width: 100%;
+    margin: 0px;
+    background-color: #00015C;
+    color: white;
+}
+
+.note
+{
+    font-size: 15px;
+    color: white;
+}
+
+.copy_right_footer 
+{
+    position: fixed;
+    color: white;
+    bottom: 0;
+    width: 100%;
+    background-color: #00015C;
+    line-height: 3;
+    text-align: center;
+}
+
+body
+{
+    background-image: url('sdfghjkbvcxdfrty.jpg');
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+}
+
+canvas
+{
+    border: 5px solid white;
+    border-radius: 20px;
+    box-shadow: 5px 5px 5px gray;
+}
